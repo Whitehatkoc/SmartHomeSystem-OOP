@@ -15,4 +15,5 @@ If you want to get more accurate information about the commands, you can review 
 You can access the sample input files containing the commands Assignment2/BBM104_S23_PA2_IO_Files_v2.1 here.
 The program I have coded distinguishes between legal and illegal commands by debugging the input file, processes the legal commands and executes the command, and sends the user that it has successfully executed the command by typing the command into the output.txt file. For illegal commands, it prints the corresponding error message to the output.txt file.
 The program that receives the Z Report command writes all the devices registered in the system to the output file along with the status of all the features belonging to that device. You can get a better understanding by examining the output file examples.
+The report in the Assignment2 file is not about the code I wrote, but about my general ideas about the assignment.
 
